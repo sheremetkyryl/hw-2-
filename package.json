@@ -1,0 +1,21 @@
+{
+  "name": "hw-2-",
+  "version": "1.0.0",
+  "description": "домашнє завдання,четвертий семестр",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheremetkyryl/hw-2-.git"
+  },
+  "keywords": [],
+  "author": "Sheremet Kyryl <kruisher@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheremetkyryl/hw-2-/issues"
+  },
+  "homepage": "https://github.com/sheremetkyryl/hw-2-#readme"
+}
